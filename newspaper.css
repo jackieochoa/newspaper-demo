@@ -1,0 +1,177 @@
+section {
+    width:fit-content;
+    max-width: 1240px;
+    border-width: 2px;
+    border-style: solid;
+    border-top: white;
+}
+
+div {
+    background-color: white;
+}
+
+#captionBoxHeadlines {
+    float: right;
+    width: 40%;
+    margin: 0px 0x 10px 10px;
+    background-color: #fff;
+    padding: 10px;
+    border-top: 1px solid #999;
+    border-right: 2px solid #555;
+    border-bottom: 2px solid #555;
+    border-left: 1px solid #999;
+}
+
+#captionBoxRight {
+    float: right;
+    width: 40%;
+    margin: 0 0 10px 10px;
+    background-color: #fff;
+    padding: 10px;
+    border-top: 1px solid #999;
+    border-right: 2px solid #555;
+    border-bottom: 2px solid #555;
+    border-left: 1px solid #999;
+}
+
+#captionBoxLeft {
+    float: left;
+    width: 90%;
+    margin: 0px 0x 10px 10px;
+    background-color: #fff;
+    padding: 10px;
+    border-top: 1px solid #999;
+    border-right: 2px solid #555;
+    border-bottom: 2px solid #555;
+    border-left: 1px solid #999;
+}
+
+#captionBoxCenter {
+    float: right;
+    width: 100%;
+    margin: 0 0 10px 10px;
+    background-color: #fff;
+    padding: 10px;
+    border-top: 1px solid #999;
+    border-right: 2px solid #555;
+    border-bottom: 2px solid #555;
+    border-left: 1px solid #999;
+}
+
+#container {
+    width: 100%;
+    margin: 5px auto;
+    background-color: #fff;
+    color: #333;
+    border-top: white;
+    line-height: 130%;
+}
+
+#topLeft {
+    float: left;
+    width: 12%;
+    margin: 0;
+    padding: 1em;
+}
+
+#topMid {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    margin-left: 17%;
+    margin-right: 17%;
+    padding: 1em;
+    max-width: 60em;
+}
+
+#topRight {
+    float: right;
+    width: 12%;
+    margin: 0;
+    padding: 1em;
+}
+
+#botLeft {
+    float: left;
+    width: 32%;
+    margin: 0;
+    padding: 1em;
+}
+
+#botMid {
+    margin-left: 37%;
+    border-left: 2px solid black;
+    margin-right: 37%;
+    border-right: 2px solid black;
+    padding: 1em;
+    max-width: 40em;
+}
+
+#botRight {
+    float: right;
+    width: 32%;
+    margin: 0;
+    padding: 1em;
+}
+
+#mainHalf {
+    float: left;
+    width: 50%;
+    padding-right: 1em;
+}
+
+
+#leftnav p, #rightnav p { margin: 0 0 1em 0; }
+#content h2 { margin: 0 0 .5em 0; }
+
+table {
+    width:100%;
+    border-width: 2px;
+    border-style: solid;
+}
+   
+td {
+    border-width: 2px;
+    border-style: solid;
+    border-top: white;
+    border-bottom: white;
+    border-left: white;
+    text-align: center;
+}
+
+#lastCell {
+    border-right: white;
+}
+
+img {
+    border: black;
+    border-style: solid;
+}
+
+
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font: bold;
+    font-size: 40px;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+}
+
+hr {
+    width: 99%;
+    background-color: black;
+}
+
+#seperator {
+    height: 2px;
+}
+
+#invisible {
+    opacity: 0;
+}
